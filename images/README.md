@@ -1,1 +1,1 @@
-directory for all images
+## **directory for all images**

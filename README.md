@@ -13,12 +13,12 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your dataset in about 150-200 words
 
-{The data was created by university of california irvine the data amin goal is to  Predict whether income exceeds $50K/yr based on census data. Also known as "Census Income" dataset. the Extraction of data was done by Barry Becker from the 1994 Census database. The pupose of the data collected is mainliy for public intrest.
+{*The data* was created by university of california irvine the data amin goal is to  Predict whether income exceeds $50K/yr based on census data. Also known as "Census Income" dataset. the Extraction of data was done by Barry Becker from the 1994 Census database. The pupose of the data collected is mainliy for public intrest.
 }
 
 ## Team Members
 
-Eric mosher- I am a managment student that is looking to presue the finance feild 
+**Eric mosher**- I am a managment student that is looking to presue the finance feild 
 
 ## References
 
